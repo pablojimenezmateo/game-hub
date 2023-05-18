@@ -2,6 +2,9 @@ const getCroppedImageUrl = (url: string) => {
     /* This function returns the same image URL
     *  but appends the crop parameter
     */
+
+    if (!url) return "";
+
     const target = "media/";
 
     // This should put the index after "media/"
