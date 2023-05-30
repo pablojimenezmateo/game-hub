@@ -4,7 +4,7 @@
 
 Live URL: https://game-gvid6jduc-gef3233-gmailcom.vercel.app/
 
-This is the complete source code for this course: https://codewithmosh.com/p/ultimate-react-part1
+This is the complete source code for these courses: https://codewithmosh.com/p/ultimate-react-part1 and https://codewithmosh.com/p/ultimate-react-part2
 
 The API consumed is [RAWG](https://rawg.io/)
 
